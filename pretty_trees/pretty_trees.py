@@ -2,7 +2,7 @@ import streamlit as st
 st.title("Bro, we doin it BIG")
 st.write(
     """
-    Im finn get streamLIT tonight!
+    I'm finna get streamLIT tonight!
     """
 )
 col1, col2, col3 = st.columns(3)
